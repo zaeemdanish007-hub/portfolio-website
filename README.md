@@ -28,7 +28,7 @@ A responsive personal portfolio website built with HTML and CSS to showcase my s
 
 ## 📸 Preview
 
-![Portfolio Screenshot](images/portfolio-preview.png)
+![Portfolio Preview](imagesportfolio-preview.png.jpeg)
 
 ## 🌍 Live Demo
 
